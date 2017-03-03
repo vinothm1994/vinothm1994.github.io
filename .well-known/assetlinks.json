@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.vinoth.logoanim",
+    "sha256_cert_fingerprints":
+    ["85:B6:3E:E1:FE:8D:26:52:E4:5F:57:1D:6E:15:C0:AA:E5:19:00:8C:88:A5:D9:E8:36:4D:D0:76:05:0F:53:8E"]
+  }
+}]
